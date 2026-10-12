@@ -1,0 +1,7 @@
+{
+  "name": "MYLY",
+  "description": "An intimate, tactile sanctuary for long-distance couples with live presence, shared board, daily sparks, reunion countdown, and digital capsules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
